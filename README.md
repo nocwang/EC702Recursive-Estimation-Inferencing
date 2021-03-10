@@ -32,3 +32,15 @@ T. Kailath, A. Sayed and B. Hassibi,  Linear Systems, (Prentice-Hall)
 M. S. Grewal and A. P. Andrews, Kalman Filtering: Theory and Practice, (Prentice Hall)
 
 Web Site: learn.bu.edu
+
+ 
+ ## Citation
+If you find it useful, please cite our paper as follows:
+
+```
+ @phdthesis{wang2020data,
+  title={Data analytics and optimization methods in biomedical systems: from microbes to humans},
+  author={Wang, Taiyao},
+  year={2020}
+}
+```
